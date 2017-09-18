@@ -1,2 +1,2 @@
-first commit
-the init of 2017 game program design
+First commit
+The init of 2017 game program design
